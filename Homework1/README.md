@@ -1,5 +1,3 @@
-# Fintech-
-Northwestern Fintech
 # Case Study Proposal 
 # JPM Coin 
 ![alt text](JPM.png)
