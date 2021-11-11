@@ -1,8 +1,8 @@
 # Fintech-
 Northwestern Fintech
 # Case Study Proposal 
-# Apple Pay 
-![alt text](ApplePay.png)
+# JPM Coin 
+![alt text](JPM.png)
 ## Background 
    ## Background 
    In 2019 J.P. Morgan was the first global bank to design a netowrk to facilitate instantaneous payments using blockchain technology, having access to facilitate payments 24/7 365, business-to-business transactions by using the JPM Coin. [JPMCoin](https://www.coindesk.com/business/2021/06/07/remember-jpm-coin-next-step-is-programmable-money-bank-exec-says/)
