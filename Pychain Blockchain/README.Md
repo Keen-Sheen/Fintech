@@ -48,7 +48,7 @@ I have coded additional input areas for the user interface of my Streamlit appli
 
 ### Step 4: Test the PyChain Ledger by Storing Records
 
-I tested the complete `PyChain` ledger and user interface by running your Streamlit application and storing some mined blocks in my `PyChain` ledger. I also tested the blockchain validation process by using the `PyChain` ledger. These following steps were:
+I tested the complete `PyChain` ledger and user interface by running the Streamlit application and storing some mined blocks in my `PyChain` ledger. I also tested the blockchain validation process by using the `PyChain` ledger. These following steps were:
 
 1. In the terminal, navigateing to the project folder where I stored the coded.
 
