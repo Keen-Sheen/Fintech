@@ -1,8 +1,5 @@
 # PyChain Ledger
 
-![alt=""]('blockchain_application.png')
-
-
 I have made the following updates to the provided Python file
 
 1. I created a new data class named `Record`. This class will serve as the blueprint for the financial transaction records that the blocks of the ledger will store.
