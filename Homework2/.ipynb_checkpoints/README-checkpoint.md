@@ -1,2 +1,0 @@
-# Fintech-
-Northwestern Fintech
