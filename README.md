@@ -33,16 +33,20 @@ Moving money around is something fintech is very good at. The phrase “I’ll V
 # Repository
 This repository includes 
 
-*
+* API's
 
-*
+* AWS
 
-*
+* Algorimithic Returns
 
-*
+* Classification
 
-*
+* Deep Learning
 
-*
+* PyViz
 
-*
+* Pychain Blockchain
+
+* Python Pandas
+
+* Crypto Wallets
