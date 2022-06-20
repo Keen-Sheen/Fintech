@@ -1,5 +1,8 @@
 # Fintech Challenges
 
+
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keen-Sheen)](https://github.com/Keen-Sheen/github-readme-stats)
+
 ![An Image of Financial Technology](Fintech.jpg)
 
 
